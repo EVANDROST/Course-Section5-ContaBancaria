@@ -1,0 +1,14 @@
+﻿Build started at 16:12...
+1>------ Build started: Project: Course, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Temp\Projetos\Course\Course\Program.cs(7,20,7,28): warning CS0219: The variable 'produto1' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(8,20,8,28): warning CS0219: The variable 'produto2' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(11,18,11,23): warning CS0219: The variable 'idade' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(12,17,12,23): warning CS0219: The variable 'codigo' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(13,18,13,24): warning CS0219: The variable 'genero' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(15,20,15,26): warning CS0219: The variable 'preco1' is assigned but its value is never used
+1>C:\Temp\Projetos\Course\Course\Program.cs(17,20,17,26): warning CS0219: The variable 'medida' is assigned but its value is never used
+1>Course -> C:\Temp\Projetos\Course\Course\bin\Debug\net8.0\Course.dll
+1>Done building project "Course.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:12 and took 00,696 seconds ==========
